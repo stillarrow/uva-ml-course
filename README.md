@@ -1,6 +1,8 @@
 # CS 6316 Machine Learning
 
-**More detail will come soon!**
+**Please fill out [this form](https://forms.gle/fiA79Fx8DnrRM3m56), if you want to request the admission**. I will send send you an email notification if your request is approved. 
+
+## Topics
 
 Topics will be covered in this course:
 
