@@ -1,9 +1,23 @@
 # CS 6316 Machine Learning
 
+
 **Please fill out [this form](https://forms.gle/fiA79Fx8DnrRM3m56), if you want to request the admission**. 
 
 - As I may loss track of emails, the form is a better place to send me your request.
 - I will send send you an email notification if your request is approved. 
+
+## Basic Information
+
+- Instructor: [Yangfeng Ji](http://yangfengji.net)
+- Semester: Spring 2020
+- Location: Olsson Hall 011
+- Time: Tuesday and Thursday 5:00 PM - 6:15 AM
+- TA: TBD
+- Office Hours: TBD
+
+## Highlights
+
+- [Course schedule](schedule.md)
 
 ## Topics
 
@@ -17,6 +31,8 @@ Topics will be covered in this course:
 - Unsupervised learning: clustering and dimension reduction
 - Introduction to neural networks
 
+For more information about this course, please checkout the [schedule](schedule.md).
+
 ## Textbook
 
-- Shalev-Shwartz and Ben-David. [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/). 2014
+- [UML] Shalev-Shwartz and Ben-David. [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/). 2014
