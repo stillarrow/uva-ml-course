@@ -36,3 +36,7 @@ For more information about this course, please checkout the [schedule](schedule.
 ## Textbook
 
 - [UML] Shalev-Shwartz and Ben-David. [Understanding Machine Learning: From Theory to Algorithms](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/). 2014
+
+## Reference
+
+- Shalev-Shwartz. [Understanding Machine Learning](https://www.cse.huji.ac.il/~shais/IML2014.html). 2014
