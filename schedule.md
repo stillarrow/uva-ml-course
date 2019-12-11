@@ -35,13 +35,13 @@
 	- Topics: decision trees and nearest neighbors
 	- Readings: UML chapter 18 and 19
 - **Week 13** Apr 7, 9
-	- Topics: clustering
-	- Readings: UML chapter 22
-- **Week 14** Apr 14, 16
-	- Topics: dimensionality reduction
-	- Readings: UML chapter 23
-- **Week 15** Apr 21, 23
 	- Topics: neural networks
 	- Readings: UML chapter 20
+- **Week 14** Apr 14, 16
+	- Topics: clustering
+	- Readings: UML chapter 22
+- **Week 15** Apr 21, 23
+	- Topics: dimensionality reduction
+	- Readings: UML chapter 23
 - **Week 16** Apr 28
-	- Summary
+	- Course summary

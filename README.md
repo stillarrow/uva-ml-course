@@ -27,9 +27,10 @@ Topics will be covered in this course:
 - Linear classification and regression
 - Regularization and stability
 - Boosting, support vector machines and kernel methods
+- Introduction to neural networks
 - Model selection and validation
 - Unsupervised learning: clustering and dimension reduction
-- Introduction to neural networks
+
 
 For more information about this course, please checkout the [schedule](schedule.md).
 
