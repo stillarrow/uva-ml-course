@@ -21,13 +21,13 @@
 	- Topics: model selection and validation
 	- Readings: UML chapter 11
 - **Week 8** Mar 3, 5
-	- Topics: regularization and stability
-	- Readings: UML chapter 13
+	- Topics: support vector machine, kernel methods 
+	- Readings: UML chapter 15 and 16
 - **Week 9** Mar 10, 12 
 	- No class this week
 - **Week 10** Mar 17, 19
-	- Topics: support vector machine, kernel methods 
-	- Readings: UML chapter 15 and 16
+	- Topics: regularization and stability
+	- Readings: UML chapter 13
 - **Week 11** Mar 24, 26
 	- Topics: neural networks
 	- Readings: UML chapter 20
