@@ -29,24 +29,29 @@
 
 ### 3.1 Topics 
 
-Topics will be covered in this course:
+Most of the course materials (and assignments) are adopted from [Shalev-Shwartz and Ben-David's textbook on machine learning](https://www.cse.huji.ac.il/~shais/UnderstandingMachineLearning/). Particularly, the topics overed in this course are:
 
 - Introduction to learning theory
 - Linear classification and regression
-- Regularization and stability
 - Support vector machines and kernel methods
 - Model selection and validation
+- Regularization and stability
 - Unsupervised learning: clustering and dimensionality reduction
 - Introduction to neural networks
 
 For more information about this course, please checkout the [schedule](schedule.md).
+
+Some related graduate-level courses offered by the CS department in Spring 2020
+
+- [Deep Learning for Visual Recognition](http://vicenteordonez.com/deeplearning/) by Vicente Ordonez-Roman, with more emphasis on deep learning
+- [Statistical Learning and Graphical Models](http://ips.lab.virginia.edu/teaching/slgm/) by Farzad Hassanzadeh, with more emphasis on statistical aspects of machine learning
 
 
 ### 3.2 Prerequisites
 
 - **Calculus and Linear Algebra**<br> Multivariable derivatives, matrix/vector notations and operations; singular value decomposition, etc.
 - **Probability and Statistics**<br> Mean and variance, multinomial distribution, conditional dependence, maximum likelihood estimation, Bayes theorem, etc.
-- **Proficiency in Python**<br> This course requires some programming in both homeworks and the final project. The preference of programming language for this course is Python (with some additional packages like Scipy, Sklearn, and PyTorch), but it is also fine to use other programming languages (e.g., C/C++/Java), if you have lots of experience of it.
+- **Proficiency in Python**<br> This course requires some programming in both homeworks and the final project. The preference of programming language for this course is Python (with some additional packages like Scipy, Sklearn, Tensorflow, and PyTorch), but it is also fine to use other programming languages (e.g., C/C++/Java), if you have lots of experience of it.
 
 
 ### 3.3 Textbook
@@ -111,4 +116,4 @@ Students who wish to request academic accommodation for a religious observance s
 
 *Section 5.1 - 5.4 are adapted from a SEAS-wide example*
 
-**Last updated on 01/03/2019**
+**Last updated on 01/04/2019**
