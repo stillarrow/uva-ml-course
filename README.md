@@ -24,9 +24,10 @@
 
 ## 3. Course Description
 
-### 3.1 Topics
+- The goal of this course is to understand basic concepts and models in machine learning. Coding or implementing a machine learning model in detail will **not** be an emphasis of this course.
+- Deep learning (or neural network modeling) will only be a small part of this course: two lectures in one week.
 
-The goal of this course is to understand basic concepts and models in machine learning. How to implement a machine learning model will **not** be an emphasis of this course.   
+### 3.1 Topics 
 
 Topics will be covered in this course:
 
@@ -110,4 +111,4 @@ Students who wish to request academic accommodation for a religious observance s
 
 *Section 5.1 - 5.4 are adapted from a SEAS-wide example*
 
-**Last updated on 12/19/2019**
+**Last updated on 01/03/2019**
