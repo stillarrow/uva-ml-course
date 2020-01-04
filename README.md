@@ -5,6 +5,7 @@
 
 - As I may loss track of emails, the form is a better place to send me your request.
 - I will send send you an email notification if your request is approved. 
+- *Updated on 01/03/2020*: I have replied to some of the requests, stay tuned if you have not heard from me.   
 
 ## 1. Basic Information
 
@@ -25,6 +26,8 @@
 
 ### 3.1 Topics
 
+The goal of this course is to understand basic concepts and models in machine learning. How to implement a machine learning model will **not** be an emphasis of this course.   
+
 Topics will be covered in this course:
 
 - Introduction to learning theory
@@ -36,6 +39,7 @@ Topics will be covered in this course:
 - Introduction to neural networks
 
 For more information about this course, please checkout the [schedule](schedule.md).
+
 
 ### 3.2 Prerequisites
 
@@ -54,17 +58,17 @@ For more information about this course, please checkout the [schedule](schedule.
 
 ## 4. Assignments and Final Project
 
-- **Homework (72%)**:
-	- There will be **six** homeworks and each of them is worth 12%.
+- **Homework (75%)**:
+	- There will be **five** homeworks and each of them is worth 15%.
 	- Although collaboration on homework is *not* encouraged, students are allowed to discuss with their classmates. But, directly copying answers from others is definitely considered as plagiarism.
-- **Project (20%)**:<br> There is only one course project and the credit breaks down to four parts
+- **Project (21%)**:<br> There is only one course project and the credit breaks down to four parts
     - Project proposal: 5%
     - Midterm report: 5%
     - Final project presentation: 5%
-    - Final project report: 5%
-    - Other than using the machine learning and NLP libraries including Sklearn, PyTorch, Tensorflow, NLTK, spaCy, AllenNLP, students need to implemented the rest of the proposed model by themselves. Copying code from any resources (e.g., Github, Bitbucket, and Gitlab) is prohibited and will be considered as plagiarism.
+    - Final project report: 6%
+    - Other than using the machine learning libraries including Sklearn, PyTorch, Tensorflow, students need to implemented the rest of the proposed model by themselves. Copying code from any resources (e.g., Github, Bitbucket, and Gitlab) is prohibited and will be considered as plagiarism.
     - Students should team up for this project, each group can have up to four students.
-- **Class participation (8%)**:<br> At four randomly-selected lectures in this semester, we will take attendance. Each is worth 2%.
+- **Class participation (4%)**:<br> At four randomly-selected lectures in this semester, we will take attendance. Each is worth 1%.
 
 ### 4.1 Grading Policy
 
