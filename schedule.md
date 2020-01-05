@@ -12,24 +12,22 @@
 	- Topics: the bias-complexity tradeoff, the VC dimension
 	- Readings: UML chapter 5 and 6
 - **Week 5** Feb 11, 13
+	- Topics: project proposal
+	- No class on Feb 11
+- **Week 6** Feb 18, 20
 	- Topics: boosting
 	- Readings: UML chapter 10
-	- *No class* on Feb 11
-	- Project proposal due on *Feb 14, 2020 11:59 PM*
-- **Week 6** Feb 18, 20
+- **Week 7** Feb 25, 27
 	- Topics: model selection and validation
 	- Readings: UML chapter 11
-- **Week 7** Feb 25, 27
-	- Topics: regularization
-	- Readings: UML chapter 13
 - **Week 8** Mar 3, 5
-	- Topics: support vector machine, kernel methods
+	- Topics: support vector machine, kernel methods 
 	- Readings: UML chapter 15 and 16
 - **Week 9** Mar 10, 12 
 	- No class this week
 - **Week 10** Mar 17, 19
-	- Topics: generative models
-	- Readings: UML chapter 24
+	- Topics: regularization and stability
+	- Readings: UML chapter 13
 - **Week 11** Mar 24, 26
 	- Topics: neural networks
 	- Readings: UML chapter 20
@@ -46,4 +44,4 @@
 	- Topics: dimensionality reduction 
 	- Readings: UML chapter 23
 - **Week 16** Apr 28
-	- Topics: final project presentation
+	- Topics: review
