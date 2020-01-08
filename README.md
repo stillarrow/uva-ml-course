@@ -61,20 +61,29 @@ Some related graduate-level courses offered by the CS department in Spring 2020
 **Additional**
 
 - [PRML] Bishop. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/). 2006
+- [MRT] Mohri, Rostamizadeh, and Talwalkar. [Foundations of Machine Learning](). 2nd Edition. 2018
+
+### 3.4 Reference Courses
+
+If you would like to extend the scope of the materials covered by this course, I recommend to study the lecture notes from these following two courses:
+
+- Shalev-Shwartz. [Understanding Machine Learning](https://www.cse.huji.ac.il/~shais/IML2014.html). 2014
+- Mohri. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/ml18/). Fall 2018
 
 ## 4. Assignments and Final Project
 
 - **Homework (75%)**:
-	- There will be **five** homeworks and each of them is worth 15%.
+	- There will be **five** homeworks and each of them is worth 15%. 
+	- Except the first homework, each of the rest homeworks will have one extra point.
 	- Although collaboration on homework is *not* encouraged, students are allowed to discuss with their classmates. But, directly copying answers from others is definitely considered as plagiarism.
-- **Project (21%)**:<br> There is only one course project and the credit breaks down to four parts
+- **Project (22%)**:<br> There is only one course project and the credit breaks down to four parts
     - Project proposal: 5%
     - Midterm report: 5%
-    - Final project presentation: 5%
+    - Final project presentation: 6%
     - Final project report: 6%
     - Other than using the machine learning libraries including Sklearn, PyTorch, Tensorflow, students need to implemented the rest of the proposed model by themselves. Copying code from any resources (e.g., Github, Bitbucket, and Gitlab) is prohibited and will be considered as plagiarism.
     - Students should team up for this project, each group can have up to four students.
-- **Class participation (4%)**:<br> At four randomly-selected lectures in this semester, we will take attendance. Each is worth 1%.
+- **Class participation (3%)**:<br> At *three* randomly-selected lectures in this semester, we will take attendance. Each is worth 1%.
 
 ### 4.1 Grading Policy
 

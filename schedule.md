@@ -3,45 +3,47 @@
 - **Week 1** Jan 14, 16
 	- Topics: basic probability and statistics
 - **Week 2** Jan 21, 23
-	- Topics: machine learning basics
+	- Topics: basic machine learning theory
 	- Readings: UML chapter 2 and 3
 - **Week 3** Jan 28, 30
-	- Topics: linear classifiers
+	- Topics: linear predictors
 	- Readings: UML chapter 9
 - **Week 4** Feb 4, 6
 	- Topics: the bias-complexity tradeoff, the VC dimension
 	- Readings: UML chapter 5 and 6
 - **Week 5** Feb 11, 13
-	- Topics: project proposal
-	- No class on Feb 11
-- **Week 6** Feb 18, 20
 	- Topics: boosting
 	- Readings: UML chapter 10
-- **Week 7** Feb 25, 27
+	- No class on Feb 11
+- **Week 6** Feb 18, 20
 	- Topics: model selection and validation
 	- Readings: UML chapter 11
-- **Week 8** Mar 3, 5
+- **Week 7** Feb 25, 27
 	- Topics: support vector machine, kernel methods 
 	- Readings: UML chapter 15 and 16
+- **Week 8** Mar 3, 5
+	- Topics: regularization and stability
+	- Readings: UML chapter 13
 - **Week 9** Mar 10, 12 
 	- No class this week
 - **Week 10** Mar 17, 19
-	- Topics: regularization and stability
-	- Readings: UML chapter 13
-- **Week 11** Mar 24, 26
 	- Topics: neural networks
 	- Readings: UML chapter 20
-- **Week 12** Mar 31, Apr 2
+- **Week 11** Mar 24, 26
 	- Topics: optimization methods
 	- Readings: UML chapter 14
+- **Week 12** Mar 31, Apr 2
+	- Topics: generative models
+	- Readings: UML chapter 24
 - **Week 13** Apr 7, 9
 	- Topics: decision trees and nearest neighbors
 	- Readings: UML chapter 18 and 19
 - **Week 14** Apr 14, 16
 	- Topics: clustering
 	- Readings: UML chapter 22
-- **Week 15** Apr 21, 23
+- **Week 15** Apr 21
 	- Topics: dimensionality reduction 
 	- Readings: UML chapter 23
-- **Week 16** Apr 28
-	- Topics: review
+- **Week 16**
+	- Final project presentation
+	- Time and location: TBD
