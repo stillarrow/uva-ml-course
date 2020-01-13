@@ -13,8 +13,10 @@
 - Semester: Spring 2020
 - Location: Olsson Hall 011
 - Time: Tuesday and Thursday 5:00 PM - 6:15 AM
-- TA: TBD
-- Office Hours: TBD
+- TA: Hanjie Chen
+- Office Hours: 
+	- Yangfeng Ji: Wednesday 11:00 AM - 12:00 PM
+	- Hanjie Chen: Tuesday/Thursday 1 PM - 2 PM
 
 ## 2. Highlights
 
@@ -125,4 +127,4 @@ Students who wish to request academic accommodation for a religious observance s
 
 *Section 5.1 - 5.4 are adapted from a SEAS-wide example*
 
-**Last updated on 01/04/2019**
+**Last updated on 01/13/2019**
