@@ -2,6 +2,7 @@
 
 - **Week 1** Jan 14, 16
 	- Topics: basic probability and statistics
+	- Materials: [Slides](slides/lecture-01.pdf), [Code](code/lecture-01.ipynb)
 - **Week 2** Jan 21, 23
 	- Topics: basic machine learning theory
 	- Readings: UML chapter 2 and 3
