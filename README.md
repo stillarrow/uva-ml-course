@@ -9,8 +9,8 @@
 - Time: Tuesday and Thursday 5:00 PM - 6:15 AM
 - TA: Hanjie Chen
 - Office Hours: 
-	- Yangfeng Ji: Wednesday 11:00 AM - 12:00 PM
-	- Hanjie Chen: Tuesday/Thursday 1 PM - 2 PM
+	- Yangfeng Ji: Wednesday 11:00 AM - 12:00 PM, Rice 510
+	- Hanjie Chen: Tuesday/Thursday 1:00 PM - 2:00 PM, Rice 442
 
 ## 2. Highlights
 
