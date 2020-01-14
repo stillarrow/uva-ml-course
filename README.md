@@ -70,7 +70,6 @@ If you would like to extend the scope of the materials covered by this course, I
 
 - **Homework (75%)**:
 	- There will be **five** homeworks and each of them is worth 15%. 
-	- Except the first homework, each of the rest homeworks will have one extra point.
 	- Although collaboration on homework is *not* encouraged, students are allowed to discuss with their classmates. But, directly copying answers from others is definitely considered as plagiarism.
 - **Project (22%)**:<br> There is only one course project and the credit breaks down to four parts
     - Project proposal: 5%
