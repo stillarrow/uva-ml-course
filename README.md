@@ -7,7 +7,7 @@
 - Semester: Spring 2020
 - Location: Olsson Hall 011
 - Time: Tuesday and Thursday 5:00 PM - 6:15 AM
-- TA: Hanjie Chen
+- TA: Hanjie Chen, Kai Lin
 - Office Hours: 
 	- Yangfeng Ji: Wednesday 11:00 AM - 12:00 PM, Rice 510
 	- Hanjie Chen: Tuesday/Thursday 1:00 PM - 2:00 PM, Rice 442
