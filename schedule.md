@@ -2,11 +2,11 @@
 
 - **Week 1** Jan 14, 16
 	- Topics: basic probability and statistics
-	- Course materials: [Slides](slides/lecture-01.pdf), [Code](code/lecture-01.ipynb)
+	- Course materials: [Slides](slides/lecture-01.pdf), [Code](https://colab.research.google.com/github/jiyfeng/uva-ml-course/blob/master/code/lecture-01.ipynb)
 - **Week 2** Jan 21, 23
 	- Topics: basic machine learning theory
 	- Readings: UML chapter 2 and 3
-	- Course materials: [Slides](slides/lecture-02.pdf), [Code](code/lecture-02.ipynb)
+	- Course materials: [Slides](slides/lecture-02.pdf), [Code](https://colab.research.google.com/github/jiyfeng/uva-ml-course/blob/master/code/lecture-02.ipynb)
 - **Week 3** Jan 28, 30
 	- Topics: linear predictors
 	- Readings: UML chapter 9
