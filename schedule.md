@@ -10,6 +10,7 @@
 - **Week 3** Jan 28, 30
 	- Topics: linear predictors
 	- Readings: UML chapter 9
+	- Course materials: [Slides](slides/lecture-03.pdf), [Code](https://colab.research.google.com/github/jiyfeng/uva-ml-course/blob/master/code/lecture-03.ipynb)
 - **Week 4** Feb 4, 6
 	- Topics: the bias-complexity tradeoff, the VC dimension
 	- Readings: UML chapter 5 and 6
