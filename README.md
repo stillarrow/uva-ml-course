@@ -17,7 +17,7 @@
 - [Course schedule](schedule.md)
 - [Grading policy](grade.md)
 - [Piazza](https://piazza.com/class/k4cu3bz7fvt1xy)
-- [Homework submission template](additional/template.tex)
+- [Homework submission template](https://www.overleaf.com/read/scbvjzqsxcpx)
 
 ## 3. Course Description
 
