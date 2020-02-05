@@ -14,6 +14,7 @@
 - **Week 4** Feb 4, 6
 	- Topics: the bias-complexity tradeoff, the VC dimension
 	- Readings: UML chapter 5 and 6
+	- Course materials: [Slides](slides/lecture-04.pdf), [Code](https://colab.research.google.com/github/jiyfeng/uva-ml-course/blob/master/code/lecture-04.ipynb)
 - **Week 5** Feb 11, 13
 	- Topics: boosting
 	- Readings: UML chapter 10
