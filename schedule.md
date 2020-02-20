@@ -19,6 +19,7 @@
 	- Topics: boosting
 	- Readings: UML chapter 10
 	- No class on Feb 11
+	- Course materials: [Slides](slides/lecture-05.pdf)
 - **Week 6** Feb 18, 20
 	- Topics: model selection and validation
 	- Readings: UML chapter 11
