@@ -19,6 +19,12 @@
 - [Piazza](https://piazza.com/class/k4cu3bz7fvt1xy)
 - [Homework submission template](https://www.overleaf.com/read/scbvjzqsxcpx)
 
+**Final Project**
+
+- [Final Project Proposal Requirements](project.md)
+- [Final Project Signup Form](https://docs.google.com/spreadsheets/d/1N7ApHiRLkeWxplnTj2ODHgxCQxhrk0-VkjFKm_0lEKA/edit?usp=sharing)
+- [Final Project Proposal Template](https://www.overleaf.com/latex/templates/neurips-2019/tprktwxmqmgk)
+
 ## 3. Course Description
 
 - The goal of this course is to understand basic concepts and models in machine learning. Coding or implementing a machine learning model in detail will **not** be an emphasis of this course.
