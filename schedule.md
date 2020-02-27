@@ -23,6 +23,7 @@
 - **Week 6** Feb 18, 20
 	- Topics: model selection and validation
 	- Readings: UML chapter 11
+	- Course materials: [Slides](slides/lecture-06.pdf)
 - **Week 7** Feb 25, 27
 	- Topics: support vector machine, kernel methods 
 	- Readings: UML chapter 15 and 16
