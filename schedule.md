@@ -27,6 +27,7 @@
 - **Week 7** Feb 25, 27
 	- Topics: support vector machine, kernel methods 
 	- Readings: UML chapter 15 and 16
+	- Course materials: [Slides](slides/lecture-07.pdf)
 - **Week 8** Mar 3, 5
 	- Topics: regularization and stability
 	- Readings: UML chapter 13
