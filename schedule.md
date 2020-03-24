@@ -42,6 +42,7 @@
 - **Week 11** Mar 24, 26
 	- Topics: neural networks, optimization methods
 	- Readings: UML chapter 14 and 20
+	- Course materials: [Slides on NNs](slides/lecture-08.pdf)
 - **Week 12** Mar 31, Apr 2
 	- Topics: generative models
 	- Readings: UML chapter 24
