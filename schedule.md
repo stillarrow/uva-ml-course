@@ -40,15 +40,15 @@
 	- No class on Mar 17 (extended spring break)
 	- Course materials: [Slides](slides/lecture-07.pdf)
 - **Week 11** Mar 24, 26
-	- Topics: neural networks, optimization methods
-	- Readings: UML chapter 14 and 20
+	- Topics: neural networks, 
+	- Readings: UML chapter 14
 	- Course materials: [Slides on NNs](slides/lecture-08.pdf)
 - **Week 12** Mar 31, Apr 2
+	- Topics: optimization methods
+	- Readings: UML chapter 20
+- **Week 13** Apr 7, 9
 	- Topics: generative models
 	- Readings: UML chapter 24
-- **Week 13** Apr 7, 9
-	- Topics: decision trees and nearest neighbors
-	- Readings: UML chapter 18 and 19
 - **Week 14** Apr 14, 16
 	- Topics: clustering
 	- Readings: UML chapter 22
