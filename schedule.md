@@ -50,6 +50,7 @@
 - **Week 13** Apr 7, 9
 	- Topics: generative models
 	- Readings: UML chapter 24
+	- Course materials: [Slides](slides/lecture-10.pdf), [Code](https://colab.research.google.com/github/jiyfeng/uva-ml-course/blob/master/code/lecture-10.ipynb)
 - **Week 14** Apr 14, 16
 	- Topics: clustering
 	- Readings: UML chapter 22
