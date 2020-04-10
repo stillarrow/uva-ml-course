@@ -14,6 +14,7 @@
 
 ## 2. Highlights
 
+- [Information for Online Lectures](online.md)
 - [Course schedule](schedule.md)
 - [Grading policy](grade.md)
 - [Piazza](https://piazza.com/class/k4cu3bz7fvt1xy)
