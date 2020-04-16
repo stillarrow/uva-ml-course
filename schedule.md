@@ -54,6 +54,7 @@
 - **Week 14** Apr 14, 16
 	- Topics: clustering
 	- Readings: UML chapter 22
+	- Course materials: [Slides](slides/lecture-11.pdf), [Code](https://colab.research.google.com/github/jiyfeng/uva-ml-course/blob/master/code/lecture-11.ipynb)
 - **Week 15** Apr 21
 	- Topics: dimensionality reduction 
 	- Readings: UML chapter 23
